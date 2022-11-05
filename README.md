@@ -1,7 +1,6 @@
 # merge-sort-proje-
 Yazılıma başlangıç eğitimi için yaptığım 2.proje 
-
-# merge-sort proje 
+ 
 
  ```
  [16,21,11,8,12,22] 

@@ -1,4 +1,4 @@
-# merge-sort-proje-
+# Merge Sort Projesi
 Yazılıma başlangıç eğitimi için yaptığım 2.proje 
  
 

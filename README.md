@@ -20,7 +20,7 @@ Yazılıma başlangıç eğitimi için yaptığım 2.proje
  ``` 16 11 21 ``` ``` 8 12 22 ```
  
  
- ```11 16 21```  ```8 12 2```
+ ```11 16 21```  ```8 12 22```
  
  * son hali bu şekilde.
  

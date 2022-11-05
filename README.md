@@ -5,7 +5,7 @@ Yazılıma başlangıç eğitimi için yaptığım 2.proje
  ```
  [16,21,11,8,12,22] 
  ```
-## Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+## 1.Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 * sayıları 2'ye ayırıyorum. 
 
@@ -26,7 +26,7 @@ Yazılıma başlangıç eğitimi için yaptığım 2.proje
  
  ``` 8 11 12 16 21 22 ```
  
- ## Big-O gösterimini yazınız. 
+ ## 2.Big-O gösterimini yazınız. 
  
  log(n) >> log6
 
